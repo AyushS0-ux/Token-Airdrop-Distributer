@@ -3,7 +3,7 @@
 ## 📌 Project Title
 **Token Airdrop Distributor**
 
-## 📄 Project Descriptions
+## 📄 Project Description
 The Token Airdrop Distributor is a lightweight Soroban-based smart contract that facilitates seamless and secure token distribution (airdrops) to a list of registered user. This contract ensures proper registration, claiming, and validation of airdrop entitlements.
 
 ## 🌟 Project Visions
