@@ -15,7 +15,7 @@ To empower Web3 builders with a transparent and tamper-proof mechanism for distr
 - **Status View:** Users can view the status of their airdrop (claimed or not).
 - **Lightweight Design:** Minimal and gas-efficient contract structure optimized for performance on Soroban.
 
-## 🔮 Future Scopes
+## 🔮 Future Scope
 - **Batch Airdrop Registration**
 - **Expiration Timers for Claims**
 - **Merkle Tree Integration for On-chain Verification**
@@ -24,6 +24,7 @@ To empower Web3 builders with a transparent and tamper-proof mechanism for distr
 
 - Contract details CCVCPPSAMRNYPVKYOZYL6KWLEDMXVWPLO7OJSWS3F2Q4OHFTY2RHUQ3M
 ![alt text](image.png)
+
 
 
 
